@@ -1,5 +1,5 @@
 <h3 align="center">
-  Hi, I'm Yashita Namdeo!
+	<a href="https://yashitanamdeo.github.io/">Hi, I'm Yashita Namdeo!</a>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3> <img src="https://gpvc.arturio.dev/yashitanamdeo" alt="Profile views" align='right'/> <a href="https://github.com/yashitanamdeo/yashitanamdeo/"> </a>
 <br/>
