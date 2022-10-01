@@ -24,7 +24,6 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
   <p align="center"> If you can dream it, you can do it🔥 </p>
 </p>
 
-
 ## 🛠️ My Favorite Tools
 
 ### 👨‍💻 Programming Languages
@@ -104,7 +103,9 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 </details>
 
 <!-- https://github.com/sisodiya2421 -->
+
 ## 🙋‍♀️ Let's Connect
+
 <p align="center">
 	<a href="https://yashitanamdeo.github.io/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
 	<a href="https://github.com/yashitanamdeo" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
@@ -113,4 +114,5 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 	<a href="https://www.instagram.com/yashitanamdeo/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href="mailto:yashita.namdeo2000@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 </p>
-[![@rphi's Holopin board](https://holopin.io/api/user/board?user=rphi)](https://holopin.io/@rphi)
+
+[![@yashitanamdeo's Holopin board](https://holopin.io/api/user/board?user=yashitanamdeo)](https://holopin.io/@yashitanamdeo)
